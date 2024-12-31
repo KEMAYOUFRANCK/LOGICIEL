@@ -6,15 +6,15 @@ st.set_page_config(layout="wide")
 st.sidebar.title("Contacts")
 st.sidebar.info(
     """
-    - ANABA OHANDZA Telesphore Rodrigue
-    - ANATO Diane
+    - KEMAYOU NGASSA Franck Pronserit
+    - GALIMENDO Jean Marie
     """
 )
 
 
 
 
-st.title("Capital humain et croissance économique en Côte d'Ivoire")
+st.title("L'impact des Investissements Directs Etrangers Sur la croissance du RWANDA")
 
 st.markdown(
     """
