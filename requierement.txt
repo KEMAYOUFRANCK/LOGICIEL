@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+streamlit-aggrid
+openpyxl
+matplotlib
+statsmodels
+plotly
+networkx
+arch
